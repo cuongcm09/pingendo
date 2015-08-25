@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family:BIRTH_OF_A_HERO;
+    src:url(file:///C|/Users/CUONG/Desktop/pingendo/fonts/BIRTH_OF_A_HERO.ttf);
+    font-weight:400;
+}
+.lg{
+	font-family:BIRTH_OF_A_HERO;
+	font-size:50px !important;
+	}
+.bgnav{
+	background:rgba(15,15,15,0.7);
+	}
+
